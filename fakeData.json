@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "product_name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "brand": "Sony",
+    "price": 89.99,
+    "image": "https://picsum.photos/400/400?random=1"
+  },
+  {
+    "id": 2,
+    "product_name": "Gaming Mechanical Keyboard",
+    "category": "Accessories",
+    "brand": "Logitech",
+    "price": 59.99,
+    "image": "https://picsum.photos/400/400?random=2"
+  },
+  {
+    "id": 3,
+    "product_name": "Smart Fitness Watch",
+    "category": "Wearables",
+    "brand": "Apple",
+    "price": 249.99,
+    "image": "https://picsum.photos/400/400?random=3"
+  },
+  {
+    "id": 4,
+    "product_name": "Portable Bluetooth Speaker",
+    "category": "Audio",
+    "brand": "JBL",
+    "price": 79.99,
+    "image": "https://picsum.photos/400/400?random=4"
+  },
+  {
+    "id": 5,
+    "product_name": "Ultra HD Monitor 27 Inch",
+    "category": "Monitors",
+    "brand": "Dell",
+    "price": 299.99,
+    "image": "https://picsum.photos/400/400?random=5"
+  },
+  {
+    "id": 6,
+    "product_name": "Wireless Gaming Mouse",
+    "category": "Accessories",
+    "brand": "Razer",
+    "price": 49.99,
+    "image": "https://picsum.photos/400/400?random=6"
+  },
+  {
+    "id": 7,
+    "product_name": "Professional DSLR Camera",
+    "category": "Camera",
+    "brand": "Canon",
+    "price": 899.99,
+    "image": "https://picsum.photos/400/400?random=7"
+  },
+  {
+    "id": 8,
+    "product_name": "USB-C Fast Charger",
+    "category": "Mobile Accessories",
+    "brand": "Anker",
+    "price": 24.99,
+    "image": "https://picsum.photos/400/400?random=8"
+  },
+  {
+    "id": 9,
+    "product_name": "Noise Cancelling Earbuds",
+    "category": "Audio",
+    "brand": "Samsung",
+    "price": 129.99,
+    "image": "https://picsum.photos/400/400?random=9"
+  },
+  {
+    "id": 10,
+    "product_name": "Slim Business Laptop",
+    "category": "Computers",
+    "brand": "HP",
+    "price": 999.99,
+    "image": "https://picsum.photos/400/400?random=10"
+  }
+]
