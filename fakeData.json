@@ -1,5 +1,5 @@
-[
-  {
+{
+  "products": [{
     "id": 1,
     "product_name": "Wireless Bluetooth Headphones",
     "category": "Electronics",
@@ -79,4 +79,4 @@
     "price": 999.99,
     "image": "https://picsum.photos/400/400?random=10"
   }
-]
+]}
