@@ -1,14 +1,8 @@
 'use client';
 import Image from "next/image";
+import { Product } from "../type";
 
-type Product = {
-  id: number;
-  product_name: string;
-  category: string;
-  brand: string;
-  price: number;
-  image: string;
-};
+
 
 const ProductCard = ({ product }: { product: Product }) => {
   return (
