@@ -8,9 +8,7 @@ const Products = async () => {
 
   const res = await fetch("http://localhost:5000/products", {
 
-    next: {
-      revalidate: 5, // Revalidate the data every 5 seconds
-    }
+    cache: "no-store",
   });
   const products = await res.json();
 
